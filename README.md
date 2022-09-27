@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Virginia</h1>
 <h3 align="center">A developer from Spain</h3>
 
-- 🌱 I’m currently learning [Desarrollo de Aplicaciones Web](https://www.iesgrancapitan.org/)
+- 🌱 I’m a Vocational Education student of [Web Applications Development](https://www.iesgrancapitan.org/)
 
-- 🌱 I’m currently learning [Bootcamp Mujeres en Tech](https://keepcoding.io/)
+- 🐍 I’m also learning Python at [Bootcamp Mujeres en Tech](https://keepcoding.io/)
 
 - 📫 How to reach me **viorbe20@gmail.com**
 
 - 📄 Check my professional networking and career development [linkedin.com/in/virginia-ordoño-bernier-874b7614a](linkedin.com/in/virginia-ordoño-bernier-874b7614a)
 
-- ⚡ Fun fact **I have a degree in English Studies but I worked many years as a Foreign Language Spanish teacher**
+- ⚡ Fun fact **I have a degree in English Studies and I worked many years as a Foreign Language Spanish teacher**
 
 
 <h3 align="left">Languages and Tools:</h3>
