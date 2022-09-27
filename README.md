@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Virginia 👩</h1>
 <h3 align="center">A developer from Spain</h3>
 
-- 👩‍💻 I’m a Vocational Education student of [Web Applications Development](https://www.iesgrancapitan.org/)
+- 👩‍💻 I’m a Vocational Education student of [Web Application Development](https://www.iesgrancapitan.org/)
 
 - 🐍 I’m also learning Python at [Bootcamp Mujeres en Tech](https://keepcoding.io/)
 
