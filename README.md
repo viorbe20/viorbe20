@@ -3,11 +3,11 @@
 
 - 👩‍💻 I’m a Vocational Education student of [Web Application Development](https://www.iesgrancapitan.org/)
 
-- 🐍 I’m also learning Python at [Bootcamp Mujeres en Tech](https://keepcoding.io/)
+- 🐍 I’m also learning Big Data at [Bootcamp Mujeres en Tech](https://keepcoding.io/)
 
 - 📫 How to reach me **viorbe20@gmail.com**
 
-- 📄 Check my professional networking and career development [linkedin.com/in/virginia-ordoño-bernier-874b7614a](linkedin.com/in/virginia-ordoño-bernier-874b7614a)
+- 📄 Check my professional networking and career development [linkedin.com/in/virginia-bernier-874b7614a](linkedin.com/in/virginia-ordoño-bernier-874b7614a)
 
 - ⚡ Fun fact **I have a degree in English Studies 👨‍🎓 and I worked many years as a Foreign Language Spanish teacher 👩‍🏫**
 
