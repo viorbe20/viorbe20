@@ -9,7 +9,7 @@
 
 - 📄 Check my professional networking and career development [linkedin.com/in/virginia-bernier-874b7614a](linkedin.com/in/virginia-ordoño-bernier-874b7614a)
 
-- ⚡ Fun fact **I have a degree in English Studies 👨‍🎓 and I worked many years as a Foreign Language Spanish teacher 👩‍🏫**
+- ⚡ Fun fact **I have a degree in English Studies 👨‍🎓 and I worked many years as a Spanish Language teacher for foreigners in Lisbon and Madrid 👩‍🏫**
 
 
 <h3 align="left">Languages and Tools:</h3>
