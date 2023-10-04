@@ -1,15 +1,17 @@
 <h1 align="center">Hi, I'm Virginia 👩</h1>
 <h3 align="center">A developer from Spain</h3>
 
-- 👩‍💻 I’m a Vocational Education student of [Web Application Development](https://www.iesgrancapitan.org/)
+### Web Developer | AI and Big Data Enthusiast 👩‍💻🤖
+  
+- 👩‍🎓  Currently pursuing a [Vocational Training Specialization Course in Artificial Intelligence and Big Data](https://www.iesgrancapitan.org/).
 
-- 🐍 I’m also learning Big Data at [Bootcamp Mujeres en Tech](https://keepcoding.io/)
+- 🐍 Completed a [Vocational Course in Web Application Development](https://www.iesgrancapitan.org/) and a [Big Data - Full Stack Jr. Bootcamp](https://keepcoding.io/)
 
 - 📫 How to reach me **viorbe20@gmail.com**
 
-- 📄 Check my professional networking and career development [linkedin.com/in/virginia-bernier-874b7614a](linkedin.com/in/virginia-ordoño-bernier-874b7614a)
+- 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/virginia-bernier-874b7614a) for professional networking and career development.
 
-- ⚡ Fun fact. **I have a degree in English Studies 👨‍🎓 and I worked many years as a Spanish Language teacher for foreigners in Lisbon and Madrid 👩‍🏫**
+- ⚡ Fun fact. I hold a degree in English Studies 👨‍🎓 and have several years of experience as a Spanish Language teacher for foreigners in Lisbon and Madrid 👩‍🏫.
 
 
 <h3 align="left">Languages and Tools:</h3>
