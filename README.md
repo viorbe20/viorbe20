@@ -3,7 +3,7 @@
 
 ### Web Developer | AI and Big Data Enthusiast 👩‍💻🤖
   
-- 👩‍🎓  Currently pursuing a [Vocational Training Specialization Course in Artificial Intelligence and Big Data](https://www.iesgrancapitan.org/).
+- 👩‍🎓  Currently pursuing a [Vocational Training Specialization Course in Artificial Intelligence and Big Data](https://www.iesgrancapitan.org/)
 
 - 🐍 Completed a [Vocational Course in Web Application Development](https://www.iesgrancapitan.org/) and a [Big Data - Full Stack Jr. Bootcamp](https://keepcoding.io/)
 
