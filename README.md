@@ -5,7 +5,7 @@
   
 - 👩‍🎓  Currently pursuing a [Vocational Training Specialization Course in Artificial Intelligence and Big Data](https://informatica.iesgrancapitan.org/ce-inteligencia-artificial-y-big-data/)
 
-- 🐍 Completed a [Vocational Course in Web Application Development]([https://www.iesgrancapitan.org/](https://informatica.iesgrancapitan.org/) and a [Big Data - Full Stack Jr. Bootcamp](https://keepcoding.io/)
+- 🐍 Completed a [Vocational Course in Web Application Development](https://informatica.iesgrancapitan.org/category/daw/) and a [Big Data - Full Stack Jr. Bootcamp](https://keepcoding.io/)
 
 - 📫 How to reach me **viorbe20@gmail.com**
 
