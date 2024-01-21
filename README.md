@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Virginia 👩</h1>
+<h1 align="center">Hi, I'm Virginia 👩🏽‍🦰</h1>
 <h3 align="center">A developer from Spain</h3>
 
 ### Web Developer | AI and Big Data Enthusiast 👩‍💻🤖
