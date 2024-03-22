@@ -17,4 +17,10 @@
 <h3>🔧 Languages and Tools 🔧</h3>
 Big Data and AI: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="60" height="60" style="margin: 5px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="60" height="60" style="margin: 5px;"/>
 
+<div style="display: flex; align-items: center;">
+  <h4 style="margin: 0; margin-right: 6px;">Big Data and AI:</h4>
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="60" height="60" style="margin: 5px;"/>
+  </a>
+</div>
 
