@@ -19,7 +19,7 @@
 
 <div style="display: flex; align-items: center; flex-wrap: nowrap;">
 
-## Big Data and AI <div><a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="60" height="60" style="margin: 5px;"/></a></div>
+Big Data and AI <a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="60" height="60" style="margin: 5px;"/></a>
 
 <div><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="60" height="60" style="margin: 5px;"/></a></div>
 
