@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact. I hold a degree in English Studies 👨‍🎓 and have several years of experience as a Spanish Language teacher for foreigners in Lisbon and Madrid 👩‍🏫.
 
+<h3>🔧 Languages and Tools 🔧</h3>
+
 <h3 align="left">🤖 Big Data and IA</h3>
 
 | <a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="60" height="60" style="margin: 5px;"/></a> | <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="60" height="60" style="margin: 5px;"/></a> |   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="60" height="60" style="margin: 5px;"/></a>| <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-learn" width="60" height="60" style="margin: 5px;"/></a>| <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="60" height="60" style="margin: 5px;"/></a> | 
