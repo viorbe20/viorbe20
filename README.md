@@ -17,7 +17,7 @@
 <h3>🔧 Languages and Tools 🔧</h3>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; flex-wrap: nowrap;">
 
 <h4 style="margin-right: 6px;">Big Data and AI:</h4>
 
