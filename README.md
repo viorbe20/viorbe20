@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Virginia 👩🏽‍🦰</h1>
 <h3 align="center">A developer from Spain</h3>
 
-### Web Developer | AI and Big Data Enthusiast 👩‍💻🤖
+### Web Developer Technician specialized in AI and Big Data 👩‍💻🤖
   
 - 👩‍🎓  Completed a [Vocational Training Specialization Course in Artificial Intelligence and Big Data](https://informatica.iesgrancapitan.org/ce-inteligencia-artificial-y-big-data/)
 
