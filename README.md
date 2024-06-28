@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Virginia 👩🏽‍🦰</h1>
-<h3 align="center">A developer from Spain</h3>
+<h3 align="center">AI Developer from Spain</h3>
 
 ### Web Developer Technician specialized in AI and Big Data 👩‍💻🤖
   
